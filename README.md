@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroacevedo" alt="pedroacevedo" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Laravel, React**
+- 🌱 I’m currently learning **Flutter, Laravel, **
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroAcevedo/](https://github.com/PedroAcevedo/)
 
-- 💬 Ask me about **Python, Javascript, Node, C++**
+- 💬 Ask me about **Python, Javascript, Java, C, Contiki**
 
 - 📫 How to reach me **pdacevedo@uninorte.edu.co**
 
