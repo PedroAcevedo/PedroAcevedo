@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroacevedo" alt="pedroacevedo" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Laravel, **
+- 🌱 I’m currently learning **Flutter, Laravel, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroAcevedo/](https://github.com/PedroAcevedo/)
 
