@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroAcevedo/](https://github.com/PedroAcevedo/)
 
-- 💬 Ask me about **Python, Javascript, Java, C, Contiki**
+- 💬 Ask me about **Unity, Python, Javascript, C++ or Contiki**
 
 - 📫 How to reach me **paceved@purdue.edu**
 
